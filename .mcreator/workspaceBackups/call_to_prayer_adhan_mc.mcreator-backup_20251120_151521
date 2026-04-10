@@ -1,0 +1,930 @@
+{
+  "mod_elements": [
+    {
+      "name": "DiscTorontoAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_toronto_adhan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_toronto_adhan.json",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscTorontoAdhanItem.java"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscRamallahAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_ramallah_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscRamallahAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_ramallah_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscNewyorkAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_newyork_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscNewyorkAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_newyork_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscMedinaAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_medina_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscMedinaAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_medina_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscMeccaAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_mecca_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscMeccaAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_mecca_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscLondonAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_london_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscLondonAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_london_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscKualalumpurAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_kualalumpur_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscKualalumpurAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_kualalumpur_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscJakartaAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_jakarta_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscJakartaAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_jakarta_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscIstanbulAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_istanbul_adhan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_istanbul_adhan.json",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscIstanbulAdhanItem.java"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscFezAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_fez_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscFezAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_fez_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscDhakaAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_dhaka_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscDhakaAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_dhaka_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscDelhiAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_delhi_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscDelhiAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_delhi_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscCairoAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_cairo_adhan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_cairo_adhan.json",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscCairoAdhanItem.java"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscAmsterdamAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_amsterdam_adhan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_amsterdam_adhan.json",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscAmsterdamAdhanItem.java"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscAlqudsAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_alquds_adhan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_alquds_adhan.json",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscAlqudsAdhanItem.java"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "RandomAdhanDisc",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "random_adhan_disc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/random_adhan_disc.json",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/RandomAdhanDiscItem.java"
+        ]
+      }
+    },
+    {
+      "name": "AdhanDiscs",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adhan_discs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/call_to_prayer_adhan_mc/loot_tables/gameplay/adhan_discs.json"
+        ]
+      }
+    },
+    {
+      "name": "RandomAdhanDiscRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "random_adhan_disc_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/procedures/RandomAdhanDiscRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MinaretChest",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minaret_chest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/call_to_prayer_adhan_mc/loot_tables/chests/minaret_chest.json"
+        ]
+      }
+    },
+    {
+      "name": "MinaretSpeaker",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minaret_speaker",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/minaret_speaker.json",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/block/entity/MinaretSpeakerBlockEntity.java",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/block/MinaretSpeakerBlock.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/blockstates/minaret_speaker.json",
+          "src/main/resources/data/call_to_prayer_adhan_mc/loot_tables/blocks/minaret_speaker.json",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/block/minaret_speaker.json"
+        ]
+      }
+    },
+    {
+      "name": "MinaretSpeakerGUI",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minaret_speaker_gui",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/world/inventory/MinaretSpeakerGUIMenu.java",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/client/gui/MinaretSpeakerGUIScreen.java",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/network/MinaretSpeakerGUIButtonMessage.java"
+        ]
+      }
+    },
+    {
+      "name": "ComputerTimeAdjust",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "computer_time_adjust",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/procedures/ComputerTimeAdjustProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ReturnComputerTime",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "return_computer_time",
+      "metadata": {
+        "return_type": "string",
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/procedures/ReturnComputerTimeProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DiscSarajevoAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_sarajevo_adhan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_sarajevo_adhan.json",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscSarajevoAdhanItem.java"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "JeljukMinaret",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jeljuk_minaret",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/call_to_prayer_adhan_mc/worldgen/structure_set/jeljuk_minaret.json",
+          "src/main/resources/data/call_to_prayer_adhan_mc/worldgen/structure/jeljuk_minaret.json",
+          "src/main/resources/data/call_to_prayer_adhan_mc/worldgen/template_pool/jeljuk_minaret.json"
+        ]
+      }
+    },
+    {
+      "name": "MughalMinerat",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mughal_minerat",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/call_to_prayer_adhan_mc/worldgen/template_pool/mughal_minerat.json",
+          "src/main/resources/data/call_to_prayer_adhan_mc/worldgen/structure_set/mughal_minerat.json",
+          "src/main/resources/data/call_to_prayer_adhan_mc/worldgen/structure/mughal_minerat.json"
+        ]
+      }
+    },
+    {
+      "name": "TihuridMinerat",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tihurid_minerat",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/call_to_prayer_adhan_mc/worldgen/structure_set/tihurid_minerat.json",
+          "src/main/resources/data/call_to_prayer_adhan_mc/worldgen/template_pool/tihurid_minerat.json",
+          "src/main/resources/data/call_to_prayer_adhan_mc/worldgen/structure/tihurid_minerat.json"
+        ]
+      }
+    },
+    {
+      "name": "MinaretSpeakerAdhan",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minaret_speaker_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/procedures/MinaretSpeakerAdhanProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MinaretSpeakerRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minaret_speaker_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/call_to_prayer_adhan_mc/recipes/minaret_speaker_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "MinaretSpeakerTest",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minaret_speaker_test",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/procedures/MinaretSpeakerTestProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DiscAkkoAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_akko_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscAkkoAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_akko_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscBaghdadAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_baghdad_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscBaghdadAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_baghdad_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscBeirutAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_beirut_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscBeirutAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_beirut_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscDamascusAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_damascus_adhan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_damascus_adhan.json",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscDamascusAdhanItem.java"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscKhortumAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_khortum_adhan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscKhortumAdhanItem.java",
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_khortum_adhan.json"
+        ]
+      },
+      "path": "~/discs"
+    },
+    {
+      "name": "DiscAddisababaAdhan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_addisababa_adhan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/call_to_prayer_adhan_mc/models/item/disc_addisababa_adhan.json",
+          "src/main/java/net/mcreator/calltoprayeradhanmc/item/DiscAddisababaAdhanItem.java"
+        ]
+      },
+      "path": "~/discs"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "computer_time_hour",
+      "type": "string",
+      "scope": "map",
+      "value": ""
+    },
+    {
+      "name": "computer_time_minute",
+      "type": "string",
+      "scope": "map",
+      "value": ""
+    },
+    {
+      "name": "computer_time_second",
+      "type": "string",
+      "scope": "map",
+      "value": ""
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "toronto_prayer",
+      "files": [
+        "toronto_canada"
+      ],
+      "category": "record",
+      "subtitle": "Toronto Adhan"
+    },
+    {
+      "name": "ramallah_prayer",
+      "files": [
+        "ramallah_palestine"
+      ],
+      "category": "record",
+      "subtitle": "Ramallah Adhan"
+    },
+    {
+      "name": "newyork_prayer",
+      "files": [
+        "new_york_united_states_of_america_usa"
+      ],
+      "category": "record",
+      "subtitle": "New York Adhan"
+    },
+    {
+      "name": "medina_prayer",
+      "files": [
+        "medina_saudi_arabia"
+      ],
+      "category": "record",
+      "subtitle": "Medina Adhan"
+    },
+    {
+      "name": "mecca_prayer",
+      "files": [
+        "mecca_saudi_arabia"
+      ],
+      "category": "record",
+      "subtitle": "Mecca Adhan"
+    },
+    {
+      "name": "london_prayer",
+      "files": [
+        "london_united_kingdom_uk"
+      ],
+      "category": "record",
+      "subtitle": "London Adhan"
+    },
+    {
+      "name": "kuala_lumpur_prayer",
+      "files": [
+        "kuala_lumpur_malaysia"
+      ],
+      "category": "record",
+      "subtitle": "Kuala Lumpur Adhan"
+    },
+    {
+      "name": "jakarta_prayer",
+      "files": [
+        "jakarta_indonesia"
+      ],
+      "category": "record",
+      "subtitle": "Jakarta Adhan"
+    },
+    {
+      "name": "istanbul_prayer",
+      "files": [
+        "istanbul_turkey"
+      ],
+      "category": "record",
+      "subtitle": "Istanbul_adhan"
+    },
+    {
+      "name": "fez_prayer",
+      "files": [
+        "fez_morocco"
+      ],
+      "category": "record",
+      "subtitle": "Fez Adhan"
+    },
+    {
+      "name": "dhaka_prayer",
+      "files": [
+        "dhaka_bangladesh"
+      ],
+      "category": "record",
+      "subtitle": "Dhaka Adhan"
+    },
+    {
+      "name": "delhi_prayer",
+      "files": [
+        "delhi_india"
+      ],
+      "category": "record",
+      "subtitle": "Delhi Adhan"
+    },
+    {
+      "name": "cairo_prayer",
+      "files": [
+        "cairo_egypt"
+      ],
+      "category": "record",
+      "subtitle": "Cairo Adhan"
+    },
+    {
+      "name": "amsterdam_prayer",
+      "files": [
+        "amsterdam_netherlands"
+      ],
+      "category": "record",
+      "subtitle": "Amsterdam Adhan"
+    },
+    {
+      "name": "alquds_prayer",
+      "files": [
+        "al-quds_jerusalem_palestine"
+      ],
+      "category": "record",
+      "subtitle": "Al Aqsa Adhan"
+    },
+    {
+      "name": "sarajevo_prayer",
+      "files": [
+        "sarajevo_bosnia_and_herzegovina"
+      ],
+      "category": "record",
+      "subtitle": "Sarajevo Adhan"
+    },
+    {
+      "name": "akko_prayer",
+      "files": [
+        "akko_israel"
+      ],
+      "category": "record",
+      "subtitle": "Akko Adhan"
+    },
+    {
+      "name": "baghdad_prayer",
+      "files": [
+        "baghdad_iraq"
+      ],
+      "category": "record",
+      "subtitle": "Baghdad Adhan"
+    },
+    {
+      "name": "beirut_prayer",
+      "files": [
+        "beirut_lebanon"
+      ],
+      "category": "record",
+      "subtitle": "Beirut Adhan"
+    },
+    {
+      "name": "damascus_prayer",
+      "files": [
+        "damascus_syria"
+      ],
+      "category": "record",
+      "subtitle": "Damascus Adhan"
+    },
+    {
+      "name": "khortum_prayer",
+      "files": [
+        "khortum_sudan"
+      ],
+      "category": "record",
+      "subtitle": "Khortum Adhan"
+    },
+    {
+      "name": "addisababa_prayer",
+      "files": [
+        "addis_ababa_ethiopia"
+      ],
+      "category": "record",
+      "subtitle": "Addis Ababa Adhan"
+    }
+  ],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:MinaretSpeaker"
+    ],
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:DiscAddisababaAdhan",
+      "~CUSTOM:DiscKhortumAdhan",
+      "~CUSTOM:DiscDamascusAdhan",
+      "~CUSTOM:DiscBeirutAdhan",
+      "~CUSTOM:DiscBaghdadAdhan",
+      "~CUSTOM:DiscAkkoAdhan",
+      "~CUSTOM:DiscSarajevoAdhan",
+      "~CUSTOM:DiscAlqudsAdhan",
+      "~CUSTOM:DiscAmsterdamAdhan",
+      "~CUSTOM:DiscCairoAdhan",
+      "~CUSTOM:DiscDelhiAdhan",
+      "~CUSTOM:DiscDhakaAdhan",
+      "~CUSTOM:DiscFezAdhan",
+      "~CUSTOM:DiscIstanbulAdhan",
+      "~CUSTOM:DiscJakartaAdhan",
+      "~CUSTOM:DiscKualalumpurAdhan",
+      "~CUSTOM:DiscLondonAdhan",
+      "~CUSTOM:DiscMeccaAdhan",
+      "~CUSTOM:DiscMedinaAdhan",
+      "~CUSTOM:DiscNewyorkAdhan",
+      "~CUSTOM:DiscRamallahAdhan",
+      "~CUSTOM:DiscTorontoAdhan"
+    ]
+  },
+  "tab_element_order": {
+    "TOOLS": [
+      "DiscTorontoAdhan",
+      "DiscRamallahAdhan",
+      "DiscNewyorkAdhan",
+      "DiscMedinaAdhan",
+      "DiscMeccaAdhan",
+      "DiscLondonAdhan",
+      "DiscKualalumpurAdhan",
+      "DiscJakartaAdhan",
+      "DiscIstanbulAdhan",
+      "DiscFezAdhan",
+      "DiscDhakaAdhan",
+      "DiscDelhiAdhan",
+      "DiscCairoAdhan",
+      "DiscAmsterdamAdhan",
+      "DiscAlqudsAdhan",
+      "DiscSarajevoAdhan",
+      "DiscAkkoAdhan",
+      "DiscBaghdadAdhan",
+      "DiscBeirutAdhan",
+      "DiscDamascusAdhan",
+      "DiscKhortumAdhan",
+      "DiscAddisababaAdhan",
+      "RandomAdhanDisc"
+    ]
+  },
+  "language_map": {
+    "en_us": {
+      "subtitles.sarajevo_prayer": "Sarajevo Adhan",
+      "subtitles.london_prayer": "London Adhan",
+      "item.call_to_prayer_adhan_mc.disc_dhaka_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_khortum_adhan": "Music Disc",
+      "subtitles.kuala_lumpur_prayer": "Kuala Lumpur Adhan",
+      "item.call_to_prayer_adhan_mc.disc_newyork_adhan.desc": "New York, USA - Adhan",
+      "item.call_to_prayer_adhan_mc.random_adhan_disc.description_0": "Right-Click to get a random Adhan disc",
+      "item.call_to_prayer_adhan_mc.disc_kualalumpur_adhan": "Music Disc",
+      "gui.call_to_prayer_adhan_mc.minaret_speaker_gui.label_maghrib_1815": "Maghrib - 18:15",
+      "gui.call_to_prayer_adhan_mc.minaret_speaker_gui.label_dhuhr_1230": "Dhuhr - 12:30",
+      "gui.call_to_prayer_adhan_mc.minaret_speaker_gui.label_minaret_speaker": "Minaret Speaker",
+      "subtitles.baghdad_prayer": "Baghdad Adhan",
+      "item.call_to_prayer_adhan_mc.disc_jakarta_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_delhi_adhan.desc": "Delhi, India - Adhan",
+      "item.call_to_prayer_adhan_mc.disc_akko_adhan.desc": "Akko, Israel - Adhan",
+      "subtitles.delhi_prayer": "Delhi Adhan",
+      "item.call_to_prayer_adhan_mc.disc_baghdad_adhan.desc": "Baghdad, Iraq - Adhan",
+      "item.call_to_prayer_adhan_mc.disc_delhi_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_akko_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_addisababa_adhan.desc": "Addis Ababa, Ethiopia - Adhan",
+      "item.call_to_prayer_adhan_mc.disc_alquds_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_mecca_adhan.desc": "Mecca, Saudi Arabia - Adhan",
+      "item.call_to_prayer_adhan_mc.disc_dhaka_adhan.desc": "Dhaka, Bangladesh - Adhan",
+      "subtitles.akko_prayer": "Akko Adhan",
+      "subtitles.fez_prayer": "Fez Adhan",
+      "subtitles.jakarta_prayer": "Jakarta Adhan",
+      "subtitles.cairo_prayer": "Cairo Adhan",
+      "item.call_to_prayer_adhan_mc.disc_beirut_adhan.desc": "Beirut, Lebanon - Adhan",
+      "subtitles.damascus_prayer": "Damascus Adhan",
+      "item.call_to_prayer_adhan_mc.disc_cairo_adhan.desc": "Cairo, Egypt - Adhan",
+      "subtitles.addisababa_prayer": "Addis Ababa Adhan",
+      "gui.call_to_prayer_adhan_mc.minaret_speaker_gui.label_isha_2000": "Isha - 20:00",
+      "item.call_to_prayer_adhan_mc.disc_cairo_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_fez_adhan": "Music Disc",
+      "subtitles.toronto_prayer": "Toronto Adhan",
+      "subtitles.istanbul_prayer": "Istanbul_adhan",
+      "subtitles.dhaka_prayer": "Dhaka Adhan",
+      "item.call_to_prayer_adhan_mc.disc_baghdad_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_newyork_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_istanbul_adhan.desc": "Istanbul, Turkey - Adhan",
+      "item.call_to_prayer_adhan_mc.random_adhan_disc": "Random Adhan Disc",
+      "subtitles.ramallah_prayer": "Ramallah Adhan",
+      "item.call_to_prayer_adhan_mc.disc_damascus_adhan": "Music Disc",
+      "gui.call_to_prayer_adhan_mc.minaret_speaker_gui.label_insert_adhan_disc": "Insert Adhan Disc",
+      "item.call_to_prayer_adhan_mc.disc_medina_adhan.desc": "Medina, Saudi Arabia - Adhan",
+      "subtitles.newyork_prayer": "New York Adhan",
+      "subtitles.amsterdam_prayer": "Amsterdam Adhan",
+      "item.call_to_prayer_adhan_mc.disc_mecca_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_amsterdam_adhan": "Music Disc",
+      "gui.call_to_prayer_adhan_mc.minaret_speaker_gui.label_asr_1545": "Asr - 15:45",
+      "item.call_to_prayer_adhan_mc.disc_ramallah_adhan": "Music Disc",
+      "gui.call_to_prayer_adhan_mc.minaret_speaker_gui.label_fajr_0500_before_sunrise": "Fajr - 05:00",
+      "item.call_to_prayer_adhan_mc.disc_addisababa_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_khortum_adhan.desc": "Khortum, Sudan - Adhan",
+      "item.call_to_prayer_adhan_mc.disc_kualalumpur_adhan.desc": "Kuala Lumpur, Malaysia - Adhan",
+      "item.call_to_prayer_adhan_mc.disc_sarajevo_adhan": "Music Disc",
+      "subtitles.khortum_prayer": "Khortum Adhan",
+      "subtitles.medina_prayer": "Medina Adhan",
+      "item.call_to_prayer_adhan_mc.disc_jakarta_adhan.desc": "Jakarta, Indonesia - Adhan",
+      "item.call_to_prayer_adhan_mc.disc_alquds_adhan.desc": "Al Quds (Jerusalem), Palestine - Adhan",
+      "item.call_to_prayer_adhan_mc.disc_sarajevo_adhan.desc": "Sarajevo, Bosnia and Herzegovina - Adhan",
+      "item.call_to_prayer_adhan_mc.disc_amsterdam_adhan.desc": "Amsterdam, Netherlands - Adhan",
+      "item.call_to_prayer_adhan_mc.disc_ramallah_adhan.desc": "Ramallah, Palestine - Adhan",
+      "block.call_to_prayer_adhan_mc.minaret_speaker": "Minaret Speaker",
+      "gui.call_to_prayer_adhan_mc.minaret_speaker_gui.label_computer_time": "computer_time",
+      "gui.call_to_prayer_adhan_mc.minaret_speaker_gui.label_prayer_times": "Prayer Times:",
+      "item.call_to_prayer_adhan_mc.disc_medina_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_london_adhan": "Music Disc",
+      "gui.call_to_prayer_adhan_mc.minaret_speaker_gui.button_test": "TEST",
+      "item.call_to_prayer_adhan_mc.disc_toronto_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_fez_adhan.desc": "Fez, Morocco - Adhan",
+      "subtitles.beirut_prayer": "Beirut Adhan",
+      "subtitles.alquds_prayer": "Al Aqsa Adhan",
+      "item.call_to_prayer_adhan_mc.disc_beirut_adhan": "Music Disc",
+      "item.call_to_prayer_adhan_mc.disc_toronto_adhan.desc": "Toronto, Canada - Adhan",
+      "item.call_to_prayer_adhan_mc.disc_london_adhan.desc": "London, UK - Adhan",
+      "item.call_to_prayer_adhan_mc.disc_istanbul_adhan": "Music Disc",
+      "subtitles.mecca_prayer": "Mecca Adhan",
+      "item.call_to_prayer_adhan_mc.disc_damascus_adhan.desc": "Damascus, Syria - Adhan"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "discs",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "call_to_prayer_adhan_mc",
+    "modName": "Call to Prayer: Adhan in Minecraft",
+    "version": "1.0.1",
+    "description": "**Call to Prayer: Adhan in Minecraft** adds the Islamic Adhan (Call to Prayer) with authentic recordings from cities worldwide, including Mecca, Cairo, Istanbul, and Sarajevo. Minarets generate naturally, each with a **Minaret Speaker Block** that plays the Adhan automatically at real-world prayer times.",
+    "author": "ignDante",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.calltoprayeradhanmc"
+  },
+  "mcreatorVersion": 202500113416
+}

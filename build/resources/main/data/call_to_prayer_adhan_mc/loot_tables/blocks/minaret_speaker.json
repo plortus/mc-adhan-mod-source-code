@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "call_to_prayer_adhan_mc:blocks/minaret_speaker",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "call_to_prayer_adhan_mc:minaret_speaker"
+        }
+      ]
+    }
+  ]
+}

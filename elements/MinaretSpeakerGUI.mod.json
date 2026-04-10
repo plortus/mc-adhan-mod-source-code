@@ -1,0 +1,202 @@
+{
+  "_fv": 79,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 204,
+          "y": 80,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_minaret_speaker",
+          "text": {
+            "fixedValue": "Minaret Speaker"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 132,
+          "y": 44,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_insert_adhan_disc",
+          "text": {
+            "fixedValue": "Insert Adhan Disc"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 168,
+          "y": 71,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_computer_time",
+          "text": {
+            "fixedValue": "computer_time",
+            "name": "ReturnComputerTime"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 132,
+          "y": 26,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_prayer_times",
+          "text": {
+            "fixedValue": "Prayer Times:"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 33,
+          "y": 26,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_test",
+          "text": "TEST",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "MinaretSpeakerTest"
+          },
+          "width": 46,
+          "height": 20,
+          "x": 249,
+          "y": 98,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_fajr_0500_before_sunrise",
+          "text": {
+            "fixedValue": "Fajr - 05:00"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 33,
+          "y": 35,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dhuhr_1230",
+          "text": {
+            "fixedValue": "Dhuhr - 12:30"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 33,
+          "y": 44,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_asr_1545",
+          "text": {
+            "fixedValue": "Asr - 15:45"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 33,
+          "y": 53,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_maghrib_1815",
+          "text": {
+            "fixedValue": "Maghrib - 18:15"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 33,
+          "y": 62,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_isha_2000",
+          "text": {
+            "fixedValue": "Isha - 20:00"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 33,
+          "y": 71,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

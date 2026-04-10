@@ -1,0 +1,200 @@
+{
+  "toronto_prayer": {
+    "subtitle": "subtitles.toronto_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:toronto_canada",
+        "stream": true
+      }
+    ]
+  },
+  "ramallah_prayer": {
+    "subtitle": "subtitles.ramallah_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:ramallah_palestine",
+        "stream": true
+      }
+    ]
+  },
+  "newyork_prayer": {
+    "subtitle": "subtitles.newyork_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:new_york_united_states_of_america_usa",
+        "stream": true
+      }
+    ]
+  },
+  "medina_prayer": {
+    "subtitle": "subtitles.medina_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:medina_saudi_arabia",
+        "stream": true
+      }
+    ]
+  },
+  "mecca_prayer": {
+    "subtitle": "subtitles.mecca_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:mecca_saudi_arabia",
+        "stream": true
+      }
+    ]
+  },
+  "london_prayer": {
+    "subtitle": "subtitles.london_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:london_united_kingdom_uk",
+        "stream": true
+      }
+    ]
+  },
+  "kuala_lumpur_prayer": {
+    "subtitle": "subtitles.kuala_lumpur_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:kuala_lumpur_malaysia",
+        "stream": true
+      }
+    ]
+  },
+  "jakarta_prayer": {
+    "subtitle": "subtitles.jakarta_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:jakarta_indonesia",
+        "stream": true
+      }
+    ]
+  },
+  "istanbul_prayer": {
+    "subtitle": "subtitles.istanbul_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:istanbul_turkey",
+        "stream": true
+      }
+    ]
+  },
+  "fez_prayer": {
+    "subtitle": "subtitles.fez_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:fez_morocco",
+        "stream": true
+      }
+    ]
+  },
+  "dhaka_prayer": {
+    "subtitle": "subtitles.dhaka_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:dhaka_bangladesh",
+        "stream": true
+      }
+    ]
+  },
+  "delhi_prayer": {
+    "subtitle": "subtitles.delhi_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:delhi_india",
+        "stream": true
+      }
+    ]
+  },
+  "cairo_prayer": {
+    "subtitle": "subtitles.cairo_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:cairo_egypt",
+        "stream": true
+      }
+    ]
+  },
+  "amsterdam_prayer": {
+    "subtitle": "subtitles.amsterdam_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:amsterdam_netherlands",
+        "stream": true
+      }
+    ]
+  },
+  "alquds_prayer": {
+    "subtitle": "subtitles.alquds_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:al-quds_jerusalem_palestine",
+        "stream": true
+      }
+    ]
+  },
+  "sarajevo_prayer": {
+    "subtitle": "subtitles.sarajevo_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:sarajevo_bosnia_and_herzegovina",
+        "stream": true
+      }
+    ]
+  },
+  "akko_prayer": {
+    "subtitle": "subtitles.akko_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:akko_israel",
+        "stream": true
+      }
+    ]
+  },
+  "baghdad_prayer": {
+    "subtitle": "subtitles.baghdad_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:baghdad_iraq",
+        "stream": true
+      }
+    ]
+  },
+  "beirut_prayer": {
+    "subtitle": "subtitles.beirut_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:beirut_lebanon",
+        "stream": true
+      }
+    ]
+  },
+  "damascus_prayer": {
+    "subtitle": "subtitles.damascus_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:damascus_syria",
+        "stream": true
+      }
+    ]
+  },
+  "khortum_prayer": {
+    "subtitle": "subtitles.khortum_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:khortum_sudan",
+        "stream": true
+      }
+    ]
+  },
+  "addisababa_prayer": {
+    "subtitle": "subtitles.addisababa_prayer",
+    "sounds": [
+      {
+        "name": "call_to_prayer_adhan_mc:addis_ababa_ethiopia",
+        "stream": true
+      }
+    ]
+  }
+}

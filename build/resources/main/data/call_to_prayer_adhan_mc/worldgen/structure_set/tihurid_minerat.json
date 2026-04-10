@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "call_to_prayer_adhan_mc:tihurid_minerat",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 50,
+    "separation": 49,
+    "salt": 479354655
+  }
+}

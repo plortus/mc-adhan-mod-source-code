@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "call_to_prayer_adhan_mc:jeljuk_minaret",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 50,
+    "separation": 34,
+    "salt": 1849274739
+  }
+}

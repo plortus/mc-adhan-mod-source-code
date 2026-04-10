@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "call_to_prayer_adhan_mc:mughal_minerat",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 43,
+    "separation": 41,
+    "salt": 2058275952
+  }
+}

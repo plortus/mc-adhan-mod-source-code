@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Not specified"
+
+[[mods]]
+modId="call_to_prayer_adhan_mc"
+version="1.0.3"
+displayName="Call to Prayer: Adhan in Minecraft"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="ignDante"
+description="**Call to Prayer: Adhan in Minecraft** adds the Islamic Adhan (Call to Prayer) with authentic recordings from cities worldwide, including Mecca, Cairo, Istanbul, and Sarajevo. Minarets generate naturally, each with a **Minaret Speaker Block** that plays the Adhan automatically at real-world prayer times."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.call_to_prayer_adhan_mc]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

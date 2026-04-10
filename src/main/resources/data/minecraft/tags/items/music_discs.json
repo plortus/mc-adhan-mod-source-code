@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "call_to_prayer_adhan_mc:disc_sarajevo_adhan",
+    "call_to_prayer_adhan_mc:disc_mecca_adhan",
+    "call_to_prayer_adhan_mc:disc_istanbul_adhan",
+    "call_to_prayer_adhan_mc:disc_newyork_adhan",
+    "call_to_prayer_adhan_mc:disc_ramallah_adhan",
+    "call_to_prayer_adhan_mc:disc_akko_adhan",
+    "call_to_prayer_adhan_mc:disc_alquds_adhan",
+    "call_to_prayer_adhan_mc:disc_fez_adhan",
+    "call_to_prayer_adhan_mc:disc_amsterdam_adhan",
+    "call_to_prayer_adhan_mc:disc_jakarta_adhan",
+    "call_to_prayer_adhan_mc:disc_dhaka_adhan",
+    "call_to_prayer_adhan_mc:disc_cairo_adhan",
+    "call_to_prayer_adhan_mc:disc_kualalumpur_adhan",
+    "call_to_prayer_adhan_mc:disc_addisababa_adhan",
+    "call_to_prayer_adhan_mc:disc_medina_adhan",
+    "call_to_prayer_adhan_mc:disc_damascus_adhan",
+    "call_to_prayer_adhan_mc:disc_toronto_adhan",
+    "call_to_prayer_adhan_mc:disc_delhi_adhan",
+    "call_to_prayer_adhan_mc:disc_london_adhan",
+    "call_to_prayer_adhan_mc:disc_khortum_adhan",
+    "call_to_prayer_adhan_mc:disc_beirut_adhan",
+    "call_to_prayer_adhan_mc:disc_baghdad_adhan"
+  ]
+}

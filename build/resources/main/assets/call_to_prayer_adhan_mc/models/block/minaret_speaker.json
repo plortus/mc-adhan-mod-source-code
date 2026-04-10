@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "call_to_prayer_adhan_mc:block/minaret_speaker",
+    "up": "call_to_prayer_adhan_mc:block/minaret_speaker",
+    "north": "call_to_prayer_adhan_mc:block/minaret_speaker",
+    "east": "call_to_prayer_adhan_mc:block/minaret_speaker",
+    "south": "call_to_prayer_adhan_mc:block/minaret_speaker",
+    "west": "call_to_prayer_adhan_mc:block/minaret_speaker",
+    "particle": "call_to_prayer_adhan_mc:block/minaret_speaker"
+  },
+  "render_type": "solid"
+}
